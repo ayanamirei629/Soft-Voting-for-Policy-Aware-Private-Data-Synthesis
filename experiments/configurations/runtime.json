@@ -1,0 +1,25 @@
+{
+  "family": "runtime",
+  "jobs": [],
+  "protocol": {
+    "candidate_sizes": [
+      64,
+      128,
+      256,
+      512,
+      1024,
+      2048,
+      4096,
+      8192
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "temperature": 0.04,
+    "analytical_repeats": 5000
+  }
+}

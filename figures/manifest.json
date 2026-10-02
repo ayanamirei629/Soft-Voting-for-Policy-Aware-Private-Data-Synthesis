@@ -1,0 +1,512 @@
+[
+  {
+    "original_stem": "exp1_crossover_adult",
+    "standard_stem": "crossover_adult",
+    "family": "crossover",
+    "procedure": "figure02_budget_panels",
+    "draft_occurrences": "Figures 7 and 11",
+    "files": {
+      "png": {
+        "path": "figures/crossover_adult.png",
+        "sha256": "8d02d20437fb59e56abf072a81b9367bde0d141bc302db01d6b3059001c77025"
+      },
+      "pdf": {
+        "path": "figures/crossover_adult.pdf",
+        "sha256": "109fec4610e6617a214033ac3931d90efaa95d16afeccf2a9bd9e033ddaa4acd"
+      }
+    }
+  },
+  {
+    "original_stem": "fig08_equal_noise_adult",
+    "standard_stem": "equal_noise_adult",
+    "family": "equal_noise",
+    "procedure": "figure08_equal_noise",
+    "draft_occurrences": "Figures 2 and 17",
+    "files": {
+      "png": {
+        "path": "figures/equal_noise_adult.png",
+        "sha256": "cf210aff2c7526a99d29aac47e93978345a2929502b1e09639a512db1f9d9f35"
+      },
+      "pdf": {
+        "path": "figures/equal_noise_adult.pdf",
+        "sha256": "70ae3e1594fcb2e0a4d14638f304a926cdf7b6a1e3bd88fa3986c7c5a4c40b54"
+      }
+    }
+  },
+  {
+    "original_stem": "fig06_mechanism_adult",
+    "standard_stem": "mechanism_decomposition_adult",
+    "family": "mechanism",
+    "procedure": "figure06_mechanism_panels",
+    "draft_occurrences": "Figures 5 and 15",
+    "files": {
+      "png": {
+        "path": "figures/mechanism_decomposition_adult.png",
+        "sha256": "eabc00a2449facf0516359e1f95d9ef3ded9a251653f06ce1bc12cf47e0e7cc6"
+      },
+      "pdf": {
+        "path": "figures/mechanism_decomposition_adult.pdf",
+        "sha256": "e700603e88958e8cab71aa27e137dd977f6010a74d2823d2f3f996f92335660a"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_adult_rho_0p0001",
+    "standard_stem": "temperature_sweep_adult_rho_0p0001",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_adult_rho_0p0001.png",
+        "sha256": "2f77f84eddc1eb0d10b7c50995711a6031425a885f1618602a3eadb6ce4f1a21"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_adult_rho_0p0001.pdf",
+        "sha256": "33c475df6cf1f5486e4512d77f7a98760fa01866ac8787d7e5b226b5c8c814c9"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_adult_rho_0p0006",
+    "standard_stem": "temperature_sweep_adult_rho_0p0006",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_adult_rho_0p0006.png",
+        "sha256": "d5c307c3b9c606ba16e6dab955b5efc83a593c93817333715179ed2fc0113710"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_adult_rho_0p0006.pdf",
+        "sha256": "c890910a50fcc8a14c53e615eedacf0bfb3855f2b4c062171386debb9bf74c98"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_adult_rho_0p003",
+    "standard_stem": "temperature_sweep_adult_rho_0p003",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_adult_rho_0p003.png",
+        "sha256": "99eca33d2d9cb7233885d0bed0b2a455335c5b17dbe56d7b18558f5fd24e2e99"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_adult_rho_0p003.pdf",
+        "sha256": "0ef82889ad9b2d70f06e91a2893c8eb3c369214e9e8331af6a555fac61ad34fd"
+      }
+    }
+  },
+  {
+    "original_stem": "exp1_crossover_bank",
+    "standard_stem": "crossover_bank",
+    "family": "crossover",
+    "procedure": "figure02_budget_panels",
+    "draft_occurrences": "Figures 7 and 11",
+    "files": {
+      "png": {
+        "path": "figures/crossover_bank.png",
+        "sha256": "e1eb30796737b2b8c5e1868a25cbe7767701088d3be8d2d1d9fb1c686cb01404"
+      },
+      "pdf": {
+        "path": "figures/crossover_bank.pdf",
+        "sha256": "173c29d9e194fa5e7b557db77cdf965594c7f6b4ce034c497b18fbe9567257ae"
+      }
+    }
+  },
+  {
+    "original_stem": "fig08_equal_noise_bank",
+    "standard_stem": "equal_noise_bank",
+    "family": "equal_noise",
+    "procedure": "figure08_equal_noise",
+    "draft_occurrences": "Figures 2 and 17",
+    "files": {
+      "png": {
+        "path": "figures/equal_noise_bank.png",
+        "sha256": "0ac310351aec7f498a1506b28f29a4abee35765023aff090edc8331ec894f094"
+      },
+      "pdf": {
+        "path": "figures/equal_noise_bank.pdf",
+        "sha256": "1875a0061bedb1f5a71b85b386cd3a4b7a3c48513654704fcee5f91a7b147964"
+      }
+    }
+  },
+  {
+    "original_stem": "fig06_mechanism_bank",
+    "standard_stem": "mechanism_decomposition_bank",
+    "family": "mechanism",
+    "procedure": "figure06_mechanism_panels",
+    "draft_occurrences": "Figures 5 and 15",
+    "files": {
+      "png": {
+        "path": "figures/mechanism_decomposition_bank.png",
+        "sha256": "ebcf47b12aea1764c951fe7739576027997ea94eb26dded44c8a310b5ff2fa57"
+      },
+      "pdf": {
+        "path": "figures/mechanism_decomposition_bank.pdf",
+        "sha256": "e673709664e62485359bf8300c4fb591c0e67e9ec4f2b36806b998d11b92232a"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_bank_rho_0p0001",
+    "standard_stem": "temperature_sweep_bank_rho_0p0001",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_bank_rho_0p0001.png",
+        "sha256": "1dcc3c848719abddec45c97ade6b1afc7e5237f21949c9656ab354b21848f724"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_bank_rho_0p0001.pdf",
+        "sha256": "f2e8506e7de98657ac4fba2f9db68c987dbcfdd89660d7396ddf51644c0b1aca"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_bank_rho_0p0006",
+    "standard_stem": "temperature_sweep_bank_rho_0p0006",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_bank_rho_0p0006.png",
+        "sha256": "3fff53c4024fd7b785d0acb63dedadcf9e6d389d7c2ad0b1c6114fb7ff14790b"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_bank_rho_0p0006.pdf",
+        "sha256": "165b0d1ee2259a17f0d73a02373b47ff5c2f45072919aed361956df4bba6736e"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_bank_rho_0p003",
+    "standard_stem": "temperature_sweep_bank_rho_0p003",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_bank_rho_0p003.png",
+        "sha256": "47320a87174c7e0a2f15e19e18e1a661d48cf11e90d23856de32ce0498b89b87"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_bank_rho_0p003.pdf",
+        "sha256": "a16b331a9390c60d74b358e04a82d03ec711af55385d2ee808d9aed737f35f60"
+      }
+    }
+  },
+  {
+    "original_stem": "exp1_crossover_xor3",
+    "standard_stem": "crossover_xor3",
+    "family": "crossover",
+    "procedure": "figure02_budget_panels",
+    "draft_occurrences": "Figures 7 and 11",
+    "files": {
+      "png": {
+        "path": "figures/crossover_xor3.png",
+        "sha256": "525c2e3dad72af30cf16d7e4873572aef4d4c36efe8becc1345c1c511f7ea581"
+      },
+      "pdf": {
+        "path": "figures/crossover_xor3.pdf",
+        "sha256": "ab1f49eff4c3982c53053bdb2ab9dbe398aff4a8c83b4280392c27a51f9f1d89"
+      }
+    }
+  },
+  {
+    "original_stem": "fig08_equal_noise_xor3",
+    "standard_stem": "equal_noise_xor3",
+    "family": "equal_noise",
+    "procedure": "figure08_equal_noise",
+    "draft_occurrences": "Figures 2 and 17",
+    "files": {
+      "png": {
+        "path": "figures/equal_noise_xor3.png",
+        "sha256": "03c953fe6820079b14a27126638e2e0babf27bb2e26f49c3a05e258fe4c5ce91"
+      },
+      "pdf": {
+        "path": "figures/equal_noise_xor3.pdf",
+        "sha256": "5ccf1fd842eee896b631019b23a8d5b5993242456237a6f6762c3e64892e9772"
+      }
+    }
+  },
+  {
+    "original_stem": "fig06_mechanism_xor3",
+    "standard_stem": "mechanism_decomposition_xor3",
+    "family": "mechanism",
+    "procedure": "figure06_mechanism_panels",
+    "draft_occurrences": "Figures 5 and 15",
+    "files": {
+      "png": {
+        "path": "figures/mechanism_decomposition_xor3.png",
+        "sha256": "b011b0bb78cf4b496a3c414f097430eef9267c08917a204660551820939a7963"
+      },
+      "pdf": {
+        "path": "figures/mechanism_decomposition_xor3.pdf",
+        "sha256": "c89722972576d49f4fe400c1de7ef1e070cbd789bacd884fd5a660aba6d6ed9c"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_xor3_rho_0p0001",
+    "standard_stem": "temperature_sweep_xor3_rho_0p0001",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_xor3_rho_0p0001.png",
+        "sha256": "7503aede45ba64e8a01ef16c4e7885323787871aea144b80d0983646ea2b7a73"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_xor3_rho_0p0001.pdf",
+        "sha256": "646750a82087eb8ed748900211574b3ca1f8c4ca573337a3da5f79527dc3e09e"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_xor3_rho_0p0006",
+    "standard_stem": "temperature_sweep_xor3_rho_0p0006",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_xor3_rho_0p0006.png",
+        "sha256": "ae2044657d7fc7b6f48e8c23ccbc6e4247b5a6033aed9cc8d8cf2b60ec1b5508"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_xor3_rho_0p0006.pdf",
+        "sha256": "bc4d10fb79c1a4926d0a390094ed061ea40d8c8d9ba0ff7de177003beaa6ef1f"
+      }
+    }
+  },
+  {
+    "original_stem": "fig05_sweet_xor3_rho_0p003",
+    "standard_stem": "temperature_sweep_xor3_rho_0p003",
+    "family": "temperature_sweep",
+    "procedure": "figure05_sweet_panels",
+    "draft_occurrences": "Main/appendix temperature sweeps and Figure 14",
+    "files": {
+      "png": {
+        "path": "figures/temperature_sweep_xor3_rho_0p003.png",
+        "sha256": "5ad63ee5417c11f0819c17bc718654f7c443f8339f8933f37b1cee80a83e6bd6"
+      },
+      "pdf": {
+        "path": "figures/temperature_sweep_xor3_rho_0p003.pdf",
+        "sha256": "8293b80c8a9e71788c7e97c3dc1446362dcda5a1fe20a9801e9594f6bc6726f0"
+      }
+    }
+  },
+  {
+    "original_stem": "fig03_direct_sensitivity",
+    "standard_stem": "sensitivity_temperature",
+    "family": "sensitivity",
+    "procedure": "figure03_direct_sensitivity",
+    "draft_occurrences": "Figure 4(a) and Figure 12",
+    "files": {
+      "png": {
+        "path": "figures/sensitivity_temperature.png",
+        "sha256": "df1cccaaf81bd012dd95cd682e703f7b3f4f2a19f3c02c4a6532cf4f5e96ae1d"
+      },
+      "pdf": {
+        "path": "figures/sensitivity_temperature.pdf",
+        "sha256": "21eaf8a435282a6b103f0ff674b1858d500416598aa6a05eda13e8814a8a66b6"
+      }
+    }
+  },
+  {
+    "original_stem": "fig04_theta_sensitivity",
+    "standard_stem": "sensitivity_policy_reach",
+    "family": "reach",
+    "procedure": "figure04_theta_runtime",
+    "draft_occurrences": "Figure 4(b) and Figure 13(left)",
+    "files": {
+      "png": {
+        "path": "figures/sensitivity_policy_reach.png",
+        "sha256": "5cfefa9b425ecc0d985457f147d477ec409c4d68b53182be4f797cc20125e60b"
+      },
+      "pdf": {
+        "path": "figures/sensitivity_policy_reach.pdf",
+        "sha256": "9735ee5a09045702172924955b803bb2f117ba67c61317fc13b53532d2c11c8d"
+      }
+    }
+  },
+  {
+    "original_stem": "fig04_runtime_candidates",
+    "standard_stem": "calibration_runtime",
+    "family": "runtime",
+    "procedure": "figure04_theta_runtime",
+    "draft_occurrences": "Figure 4(c) and Figure 13(right)",
+    "files": {
+      "png": {
+        "path": "figures/calibration_runtime.png",
+        "sha256": "8d400929acb96e5e75fc0f779a5a79d6a618498069bc7bf5e9b9e150a92f74d3"
+      },
+      "pdf": {
+        "path": "figures/calibration_runtime.pdf",
+        "sha256": "9bc03ac82f2984a68607568fb69fa73045158ab0a4d413fd31306d6f0dc41167"
+      }
+    }
+  },
+  {
+    "original_stem": "fig07_xor3_rho_0p03",
+    "standard_stem": "xor3_temperature_reach_rho_0p03",
+    "family": "interaction",
+    "procedure": "figure07_xor_interaction",
+    "draft_occurrences": "XOR3 interaction panels in main text and appendices",
+    "files": {
+      "png": {
+        "path": "figures/xor3_temperature_reach_rho_0p03.png",
+        "sha256": "02aa1e0cc25d6dc134ea3977c0a1f691e01b6fcb14933060f7e79d4c64fe0809"
+      },
+      "pdf": {
+        "path": "figures/xor3_temperature_reach_rho_0p03.pdf",
+        "sha256": "aa7f7b3672dd0404a152f2cc65052a056a2f8c9bf1e49f96d04391337265eb36"
+      }
+    }
+  },
+  {
+    "original_stem": "fig07_xor3_rho_0p18",
+    "standard_stem": "xor3_temperature_reach_rho_0p18",
+    "family": "interaction",
+    "procedure": "figure07_xor_interaction",
+    "draft_occurrences": "XOR3 interaction panels in main text and appendices",
+    "files": {
+      "png": {
+        "path": "figures/xor3_temperature_reach_rho_0p18.png",
+        "sha256": "8f9c20a66466b903003a9e2a6352fb58a9ffe7961b227e6068a53c8d70ae185a"
+      },
+      "pdf": {
+        "path": "figures/xor3_temperature_reach_rho_0p18.pdf",
+        "sha256": "a33998d30add5731596aac5163a75b8932435e1b8ed7e3696bf7f295cf9c9fae"
+      }
+    }
+  },
+  {
+    "original_stem": "fig07_xor3_rho_1",
+    "standard_stem": "xor3_temperature_reach_rho_1",
+    "family": "interaction",
+    "procedure": "figure07_xor_interaction",
+    "draft_occurrences": "XOR3 interaction panels in main text and appendices",
+    "files": {
+      "png": {
+        "path": "figures/xor3_temperature_reach_rho_1.png",
+        "sha256": "a903f5c3296fb64a6770de11036d00b830bafd2d3fb135d8066617c0b7910188"
+      },
+      "pdf": {
+        "path": "figures/xor3_temperature_reach_rho_1.pdf",
+        "sha256": "37d4b9009eeb78abc44803b901da3668d91f8f8a91b71957d044e48b472bf1f7"
+      }
+    }
+  },
+  {
+    "original_stem": "fig09_forecast_adult_rho_0p0001",
+    "standard_stem": "adult_public_forecast_rho_0p0001",
+    "family": "forecast",
+    "procedure": "figure09_forecast_panels",
+    "draft_occurrences": "Adult forecast panels and Figure 18",
+    "files": {
+      "png": {
+        "path": "figures/adult_public_forecast_rho_0p0001.png",
+        "sha256": "e3bfd3d94b3c2b54f031d3ff42a7c89465058bdc13374e68a6b9394934672664"
+      },
+      "pdf": {
+        "path": "figures/adult_public_forecast_rho_0p0001.pdf",
+        "sha256": "7a502bf8e748f89c93e5ee04b76c0427c8710f3b97a107e968d6349cc92cc2d5"
+      }
+    }
+  },
+  {
+    "original_stem": "fig09_forecast_adult_rho_0p0006",
+    "standard_stem": "adult_public_forecast_rho_0p0006",
+    "family": "forecast",
+    "procedure": "figure09_forecast_panels",
+    "draft_occurrences": "Adult forecast panels and Figure 18",
+    "files": {
+      "png": {
+        "path": "figures/adult_public_forecast_rho_0p0006.png",
+        "sha256": "870fd9c6f6d2db807944c89ebd31d1049e860694a6bd36350db46498c7d2bf4c"
+      },
+      "pdf": {
+        "path": "figures/adult_public_forecast_rho_0p0006.pdf",
+        "sha256": "3cbf9de06de8f618930f82410e24b1f97c159560f2cf715c12bd34f27f41e957"
+      }
+    }
+  },
+  {
+    "original_stem": "fig09_forecast_adult_rho_0p003",
+    "standard_stem": "adult_public_forecast_rho_0p003",
+    "family": "forecast",
+    "procedure": "figure09_forecast_panels",
+    "draft_occurrences": "Adult forecast panels and Figure 18",
+    "files": {
+      "png": {
+        "path": "figures/adult_public_forecast_rho_0p003.png",
+        "sha256": "08d7d685b2c27c95d1213f857330e6297584d30a205320eb81d2d1c58eb279c3"
+      },
+      "pdf": {
+        "path": "figures/adult_public_forecast_rho_0p003.pdf",
+        "sha256": "196796743194f3c17263e9ac8ab80a8f3cdd5efc6c9ae16aebe2a762368dcd28"
+      }
+    }
+  },
+  {
+    "original_stem": "fig_gen_policy_adult_fixed_tau_0p03",
+    "standard_stem": "policy_scope_adult_tau_0p03",
+    "family": "generalization",
+    "procedure": "new_policy_figures",
+    "draft_occurrences": "Figure 19(a)",
+    "files": {
+      "png": {
+        "path": "figures/policy_scope_adult_tau_0p03.png",
+        "sha256": "5c8bddf25f024e4e87ca6e754c32fd4c097e0f5b0a0c2924b085fdc7cc290c90"
+      },
+      "pdf": {
+        "path": "figures/policy_scope_adult_tau_0p03.pdf",
+        "sha256": "1d5fed5444439f64d53749db6f264a7071f3d3fff0660e6adaea4dfa0b138157"
+      }
+    }
+  },
+  {
+    "original_stem": "fig_gen_policy_bank_public_selected",
+    "standard_stem": "policy_scope_bank_public_selection",
+    "family": "generalization",
+    "procedure": "new_policy_figures",
+    "draft_occurrences": "Figure 19(b)",
+    "files": {
+      "png": {
+        "path": "figures/policy_scope_bank_public_selection.png",
+        "sha256": "579e826026d051af9de2de67d80ef7f36507647f24d33fca55291bae246b53b9"
+      },
+      "pdf": {
+        "path": "figures/policy_scope_bank_public_selection.pdf",
+        "sha256": "2d0416ef58c3d5b08f1ce42150634b9c3178532d9a2c8f8757e035614cc83a00"
+      }
+    }
+  },
+  {
+    "original_stem": "fig_gen_xor3_size_x1_fixed_tau_0p03_fixed_budget",
+    "standard_stem": "xor3_training_size_tau_0p03",
+    "family": "generalization",
+    "procedure": "new_size_figures",
+    "draft_occurrences": "Figure 19(c)",
+    "files": {
+      "png": {
+        "path": "figures/xor3_training_size_tau_0p03.png",
+        "sha256": "42e7316ceb9e61aa600f65ffd441d18b3718829d263e80486631546e2f14e54e"
+      },
+      "pdf": {
+        "path": "figures/xor3_training_size_tau_0p03.pdf",
+        "sha256": "8917ecfafa9317023845616fa01ed1babae73b45e7e44b3b0053ef6d84e7ca9f"
+      }
+    }
+  }
+]

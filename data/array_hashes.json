@@ -1,0 +1,54 @@
+{
+  "adult": {
+    "train": {
+      "shape": [
+        26048,
+        5
+      ],
+      "dtype": "float64",
+      "sha256": "5fd4cba7b153f44ad3c7d5e8b033f865dc1b01dea64bb8ce765d16f408cc31ac"
+    },
+    "val": {
+      "shape": [
+        6513,
+        5
+      ],
+      "dtype": "float64",
+      "sha256": "e189a73475976df7223cb725d170bd97daae0401f9388e6217145f2c4f7a3ab3"
+    },
+    "test": {
+      "shape": [
+        16281,
+        5
+      ],
+      "dtype": "float64",
+      "sha256": "f742c49c4ca33b7028b3bc8b7cd8caedaffde2a9280cd6e0ad9a394f273b72d9"
+    }
+  },
+  "bank": {
+    "train": {
+      "shape": [
+        27126,
+        5
+      ],
+      "dtype": "float64",
+      "sha256": "70ad55f5cab7bd0a1c9fa1de347d43212f9d60215d1ae310b4f324f6db299e1b"
+    },
+    "val": {
+      "shape": [
+        9042,
+        5
+      ],
+      "dtype": "float64",
+      "sha256": "1194ce6e2c0648ca44c4b60d8a7070718440d44755315a9a5f083494aa1c2dce"
+    },
+    "test": {
+      "shape": [
+        9043,
+        5
+      ],
+      "dtype": "float64",
+      "sha256": "f5d342501113d672e94df2dd45a1af6a5cb64e6f33a49bec904e475dc42c57d9"
+    }
+  }
+}

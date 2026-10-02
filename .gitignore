@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+outputs/
+results/raw/**/*.json
+results/raw/**/*.npz
+data/*.zip
+data/*.npz
+*.log
+.DS_Store
+Thumbs.db

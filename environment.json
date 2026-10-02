@@ -1,0 +1,15 @@
+{
+  "python": "3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.0.2",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.7.1",
+    "torch": "2.5.1+cu121",
+    "omegaconf": "2.3.0",
+    "psutil": "5.9.5",
+    "reportlab": "4.5.1"
+  }
+}
