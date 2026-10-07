@@ -4,6 +4,8 @@ Experiment code, fixed configurations, numerical results, and figures for the
 current paper draft. The 30 unique experimental panels are supplied separately
 as PNG and PDF; repeated panels in the paper use the same asset.
 
+Paper draft: [PDF](_EDBT__Soft_Voting_for_Policy_Aware_Private_Data_Synthesis.pdf).
+
 ## Structure
 
 ```text

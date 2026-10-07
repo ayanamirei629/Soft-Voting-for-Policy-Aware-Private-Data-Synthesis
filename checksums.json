@@ -9,7 +9,11 @@
   },
   {
     "path": "README.md",
-    "sha256": "f78f80911b438e0a63ec600a3e1ba3e189da7bf4cf54be93fd7714a7846717bb"
+    "sha256": "a98262e6000ac7f994371205541f4d0de14a644f1831ca7b4f215ab814d27464"
+  },
+  {
+    "path": "_EDBT__Soft_Voting_for_Policy_Aware_Private_Data_Synthesis.pdf",
+    "sha256": "679a7715f1de3f26443124a80e44ffbc6fc5cc7a78fbd0e8af164db476fcd077"
   },
   {
     "path": "code/CROSSOVER_PROTOCOL.md",
