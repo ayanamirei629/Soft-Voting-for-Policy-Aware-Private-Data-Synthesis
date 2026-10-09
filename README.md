@@ -4,7 +4,21 @@ Experiment code, fixed configurations, numerical results, and figures for the
 current paper draft. The 30 unique experimental panels are supplied separately
 as PNG and PDF; repeated panels in the paper use the same asset.
 
-Paper draft: [PDF](_EDBT__Soft_Voting_for_Policy_Aware_Private_Data_Synthesis.pdf).
+Paper (extended version with all appendices): [arXiv:2610.11285](https://arxiv.org/abs/2610.11285).
+A copy is also available [here](_EDBT__Soft_Voting_for_Policy_Aware_Private_Data_Synthesis.pdf).
+
+## Citation
+
+```bibtex
+@misc{hu2026softvoting,
+  author        = {Yingge Hu and Gautham Ramesh Babu and Mostafa Milani},
+  title         = {Soft Voting for Policy-Aware Private Data Synthesis},
+  year          = {2026},
+  eprint        = {2610.11285},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.DB}
+}
+```
 
 ## Structure
 
